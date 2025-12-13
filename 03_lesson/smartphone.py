@@ -6,4 +6,3 @@ class Smartphone:
 
     def print_info(self):
        print(f"{self.brand} - {self.model}. {self.phone_number}")
-

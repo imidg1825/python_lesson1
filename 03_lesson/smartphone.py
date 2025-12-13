@@ -5,4 +5,4 @@ class Smartphone:
         self.phone_number = phone_number
 
     def print_info(self):
-       print(f"{self.brand} - {self.model}. {self.phone_number}")
+        print(f"{self.brand} - {self.model}. {self.phone_number}")

@@ -1,4 +1,6 @@
 __pycache__/
 *.pyc
+
+# Allure
 allure-results/
 allure-report/
